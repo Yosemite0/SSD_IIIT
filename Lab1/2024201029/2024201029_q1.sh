@@ -1,3 +1,3 @@
 #!/bin/bash
 
-grep "POST" $(dirname $0)/access.log
+grep "POST" $(dirname $0)/access.log | grep "404" 
