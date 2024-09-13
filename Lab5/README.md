@@ -33,11 +33,15 @@ The following files are included in the submission:
 ## Files Structure
 ```
 2024201029.zip
-|_____ 2024201029/
-      |_____ index.html
-      |_____ videoPage.html
-      |_____ styles.css
-      |_____ README.md
+|_____ 2024201029_q1/
+|     |_____ index.html
+|     |_____ videoPage.html
+|     |_____ styles.css
+|_____ 2024201029_q2/
+|     |_____ index.html
+|     |_____ videoPage.html
+|     |_____ styles.css
+|___________ README.md
 ```
 
 ## Execution Steps
@@ -50,7 +54,7 @@ The following files are included in the submission:
 - Ensure that `styles.css` is in the same directory as `index.html` and `videoPage.html` for the styling to be applied correctly.
 
 ## Assumptions
-Both HTML files are using the same CS file.
+Both HTML files are using the same CSS file.
 
 ### Question 1
 
